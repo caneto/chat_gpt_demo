@@ -1,4 +1,4 @@
-const  String chatapiKey="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";
+const  String chatapiKey="";  // Se cadastre no https://platform.openai.com/ para obter sua Chave.
 
 
 const String baseURL="https://api.openai.com/v1";
