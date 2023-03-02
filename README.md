@@ -2,6 +2,8 @@
 
 Um pequeno projeto, atualizado, que faz buscas do ChatGPT
 
+Para utilizar, se cadastre no https://platform.openai.com/ e obtenha a chave.
+
 - [Me apoie no Patreon](https://patreon.com/carlosalbertopinto?fan_landing=true)
 
 <h2>🛠️ Funcionalidades e Componentes usados</h2>
