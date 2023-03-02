@@ -1,16 +1,21 @@
-# chat_gpt_demo
+# ChatGPT Demo
 
-A new Flutter project.
+Um pequeno projeto, atualizado, que faz buscas do ChatGPT
 
-## Getting Started
+- [Me apoie no Patreon](https://patreon.com/carlosalbertopinto?fan_landing=true)
 
-This project is a starting point for a Flutter application.
+<h2>🛠️ Funcionalidades e Componentes usados</h2>
 
-A few resources to get you started if this is your first Flutter project:
+- flutter 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- flutter_bloc: ^8.1.1
+- equatable: ^2.0.5
+- http: ^0.13.5
+- get_it: ^7.2.0
+- share_plus: ^6.3.0
+- shimmer: ^2.0.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Componentes serão atualizados em breve, com Tradução do textos base.
+
+
+<b>Desenvolvido apenas para Android.</b> - Testado exclusivamente em Android (Emulador).
